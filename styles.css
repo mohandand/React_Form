@@ -1,0 +1,40 @@
+h1,
+.App {
+  font-family: sans-serif;
+}
+.formcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 0 auto;
+  max-width: 50%;
+  height: 800px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.container {
+  margin: 0 auto;
+  width: 60%;
+  height: 80%;
+  background: #fff;
+  padding: 25px 30px;
+  border-radius: 10px;
+}
+.title {
+  font-size: 25px;
+  font-weight: 540;
+  margin-bottom: 10px;
+}
+.userdatails .inputbox {
+  display: flex;
+  flex-wrap: wrap;
+}
+input {
+  height: 45px;
+  width: 100%;
+  margin: 10px 0px 10px 0px;
+  border-radius: 5px;
+}
