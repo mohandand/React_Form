@@ -5,7 +5,7 @@ export default function Form() {
   return (
     <div className="formcontainer">
       <div className="container">
-        <div className="title">Registration</div>
+        <div className="title">Registrations</div>
         <form action="#">
           <div className="userdatails">
             <div className="inputbox">
